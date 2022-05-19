@@ -1,0 +1,74 @@
+body {
+    background-image: url("assets/background.gif");
+}
+
+#intro {
+    text-align: center;
+    margin: auto;
+
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 10rem;
+
+    vertical-align: middle;
+}
+
+#title {
+    font-size: 5rem;
+    color: greenyellow;
+}
+
+#sub-title {
+    font-size: 2rem;
+    color: aqua;
+}
+
+#description {
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+#gallery {
+    text-align: center;
+    margin: auto;
+
+    display: table;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 1rem;
+
+    border-radius: 1rem;
+    width: 60rem;
+    height: auto;
+    vertical-align: middle;
+}
+
+#gallery img {
+    width: 200px;
+    height: 200px;
+}
+
+#link {
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 1rem;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#link img {
+    width: 2rem;
+    height: 2rem;
+}
+
+#link a {
+    color: white;
+}
