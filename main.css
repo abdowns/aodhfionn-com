@@ -50,6 +50,26 @@ body {
     height: 200px;
 }
 
+#credits {
+    margin: auto;
+    align-items: center;
+
+    text-align: center;
+    width: auto;
+
+    text-colo
+}
+
+#credits p {
+    color: white;
+    font-size: 2rem;
+}
+
+#credits h3 {
+    color: white;
+    font-size: 4rem;
+}
+
 #link {
     margin: auto;
 
