@@ -65,20 +65,22 @@ body {
     font-size: 4rem;
 }
 
-.credit-tag {
+#credit-tag {
     margin: auto;
     gap: 2rem;
     padding: 1rem;
 
+    align-items: center;
+
     display: flex;
 }
 
-.credit-tag img {
+#credit-tag img {
     width: 64px;
     height: 64px;
 }
 
-.credit-tag p {
+#credit-tag p {
     color: white;
     font-size: 2rem;
 }
